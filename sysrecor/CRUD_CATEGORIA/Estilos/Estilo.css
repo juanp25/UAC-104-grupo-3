@@ -1,0 +1,10 @@
+input {
+	border:none;
+	outline: none;
+	display: block;
+	background: red;
+
+}
+input[type="submit"]{
+	background: fff;
+}
