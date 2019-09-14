@@ -81,7 +81,7 @@ if(isset($_REQUEST['action']))
                 <table class="pure-table pure-table-horizontal">
                     <thead>
                         <tr>
-                            <th style="text-align:left;">buenos dias a todos</th>
+                            <th style="text-align:left;">buenas noches</th>
                             <th style="text-align:left;">Descripcion</th>
                             
                             <th></th>
